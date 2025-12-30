@@ -50,7 +50,7 @@ The clasification pipeline is as follows, reflecting a standards motor imagery B
   
 **Results:**
 
-    - Using the CSP + LDA pipeline on left vs right-hand motor imagery trials, the model achieved an average cross-               validated accuracy of ~82%.
+   Using the CSP + LDA pipeline on left vs right-hand motor imagery trials, the model achieved an average cross-               validated accuracy of ~82%.
 
 
 **Limitations**
